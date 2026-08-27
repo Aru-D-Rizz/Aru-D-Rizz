@@ -174,25 +174,32 @@ A rental management platform built with a responsive React/Tailwind frontend and
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldridfernandes&theme=tokyonight" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aru-D-Rizz&theme=tokyonight" width="100%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aru-D-Rizz&theme=tokyonight" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aru-D-Rizz&theme=tokyonight" height="180"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aru-D-Rizz&theme=tokyonight" height="180"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aru-D-Rizz&theme=tokyonight&utcOffset=5.5" height="180"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aldridfernandes&theme=tokyonight" height="180"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aldridfernandes&theme=tokyonight" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aldridfernandes&theme=tokyonight" height="180"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aldridfernandes&theme=tokyonight&utcOffset=5.5" height="180"/>
+<a href="https://github.com/Aru-D-Rizz?tab=repositories">
+<img src="https://img.shields.io/badge/🚀_View_All_Repositories-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
+
 
 ---
 
