@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Aldrid Fernandes
+# 👋 Aldrid Fernandes
 
 ### ⛓️ Blockchain Developer | Web3 Builder | Full-Stack Developer
 
